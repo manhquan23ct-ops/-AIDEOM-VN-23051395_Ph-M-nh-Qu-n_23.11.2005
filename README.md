@@ -119,4 +119,4 @@ Mở trình duyệt tại `http://localhost:8501`
 ---
 
 *Dữ liệu sử dụng cho mục đích học thuật. Nguồn: Tổng cục Thống kê (GSO), Bộ KH&CN, World Bank, GII 2025.*
-"# -AIDEOM-VN-23051395_Ph-M-nh-Qu-n_23.11.2005" 
+"# -AIDEOM-VN-23051395_PhiManhQuan_23.11.2005" 
