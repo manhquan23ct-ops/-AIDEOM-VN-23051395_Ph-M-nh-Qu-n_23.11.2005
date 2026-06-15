@@ -112,9 +112,9 @@ Mở trình duyệt tại `http://localhost:8501`
 
 ---
 
-## Nhóm thực hiện
+## Sinh viên thực hiện
 
-> Học viện Tài chính — Khoa Hệ thống Thông tin Kinh tế
+> Phí Mạnh Quân — 23051395 — Lớp QH2023E QTKD 1
 
 ---
 
